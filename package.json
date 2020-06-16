@@ -1,0 +1,14 @@
+{
+  "name": "redis-client",
+  "version": "0.0.3",
+  "author": "Markus Fürer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "github:kusigit/redis-client"
+  },
+  "dependencies": {
+    "bluebird": "3.7.2",
+    "redis": "2.8.0"
+  }
+}
